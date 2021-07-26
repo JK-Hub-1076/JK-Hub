@@ -1474,7 +1474,7 @@ local function INCTQK_fake_script() -- Login.LocalScript
 	main.Visible = false
 	
 	script.Parent.MouseButton1Click:Connect(function()
-		if passwort.Text == "Jsgamer2_0" or passwort.Text == "JK-Hub-202!.dlWLd0Üda" then
+		if passwort.Text == "Jkgamer1_0" or passwort.Text == "JK-Hub-202!.dlWLd0Üda" then
 			login.Visible = false
 			main.Visible = true
 		else
