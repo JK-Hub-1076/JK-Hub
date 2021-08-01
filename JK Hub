@@ -1,5 +1,3 @@
--- Gui to Lua
--- Version: 3.2
 
 -- Instances:
 
@@ -39,17 +37,27 @@ local UICorner_3 = Instance.new("UICorner")
 local Shadow_6 = Instance.new("Frame")
 local UICorner_4 = Instance.new("UICorner")
 local TextLabel_6 = Instance.new("TextLabel")
-local Ancestor = Instance.new("TextButton")
+local Blood = Instance.new("TextButton")
 local UICorner_5 = Instance.new("UICorner")
 local Shadow_7 = Instance.new("Frame")
 local UICorner_6 = Instance.new("UICorner")
 local TextLabel_7 = Instance.new("TextLabel")
-local Credits_2 = Instance.new("Frame")
+local ExtremeDupe = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local Shadow_8 = Instance.new("Frame")
+local UICorner_8 = Instance.new("UICorner")
 local TextLabel_8 = Instance.new("TextLabel")
-local Home = Instance.new("Frame")
+local Wallops = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
+local Shadow_9 = Instance.new("Frame")
+local UICorner_10 = Instance.new("UICorner")
 local TextLabel_9 = Instance.new("TextLabel")
+local Credits_2 = Instance.new("Frame")
 local TextLabel_10 = Instance.new("TextLabel")
+local Home = Instance.new("Frame")
 local TextLabel_11 = Instance.new("TextLabel")
+local TextLabel_12 = Instance.new("TextLabel")
+local TextLabel_13 = Instance.new("TextLabel")
 local arrowLeft = Instance.new("ImageButton")
 local Youcanfindallscriptshere = Instance.new("TextLabel")
 local ChangeLog = Instance.new("ImageLabel")
@@ -60,62 +68,73 @@ local _3 = Instance.new("TextLabel")
 local _4 = Instance.new("TextLabel")
 local Arsenal = Instance.new("Frame")
 local Zyrexhub = Instance.new("TextButton")
-local UICorner_7 = Instance.new("UICorner")
-local Shadow_8 = Instance.new("Frame")
-local UICorner_8 = Instance.new("UICorner")
-local TextLabel_12 = Instance.new("TextLabel")
-local AllGames = Instance.new("Frame")
-local Infinityyield = Instance.new("TextButton")
-local UICorner_9 = Instance.new("UICorner")
-local Shadow_9 = Instance.new("Frame")
-local UICorner_10 = Instance.new("UICorner")
-local TextLabel_13 = Instance.new("TextLabel")
-local Scripts = Instance.new("ScrollingFrame")
-local Games = Instance.new("TextLabel")
-local IslandsScripts = Instance.new("TextButton")
 local UICorner_11 = Instance.new("UICorner")
 local Shadow_10 = Instance.new("Frame")
 local UICorner_12 = Instance.new("UICorner")
 local TextLabel_14 = Instance.new("TextLabel")
-local LumberTycoon2_2 = Instance.new("TextButton")
+local BigPaintBall = Instance.new("Frame")
+local Infinityyield = Instance.new("TextButton")
 local UICorner_13 = Instance.new("UICorner")
 local Shadow_11 = Instance.new("Frame")
 local UICorner_14 = Instance.new("UICorner")
 local TextLabel_15 = Instance.new("TextLabel")
-local Allgames = Instance.new("TextButton")
+local Scripts = Instance.new("ScrollingFrame")
+local Games = Instance.new("TextLabel")
+local IslandsScripts = Instance.new("TextButton")
 local UICorner_15 = Instance.new("UICorner")
 local Shadow_12 = Instance.new("Frame")
 local UICorner_16 = Instance.new("UICorner")
 local TextLabel_16 = Instance.new("TextLabel")
-local Arsenal_2 = Instance.new("TextButton")
+local LumberTycoon2_2 = Instance.new("TextButton")
 local UICorner_17 = Instance.new("UICorner")
 local Shadow_13 = Instance.new("Frame")
 local UICorner_18 = Instance.new("UICorner")
 local TextLabel_17 = Instance.new("TextLabel")
-local Settings_2 = Instance.new("Frame")
-local TextLabel_18 = Instance.new("TextLabel")
-local Open = Instance.new("TextButton")
-local Shadow_14 = Instance.new("Frame")
-local TextLabel_19 = Instance.new("TextLabel")
-local login = Instance.new("Frame")
-local UIGradient = Instance.new("UIGradient")
+local Allgames = Instance.new("TextButton")
 local UICorner_19 = Instance.new("UICorner")
-local Login = Instance.new("TextButton")
+local Shadow_14 = Instance.new("Frame")
 local UICorner_20 = Instance.new("UICorner")
-local Shadow_15 = Instance.new("Frame")
+local TextLabel_18 = Instance.new("TextLabel")
+local Arsenal_2 = Instance.new("TextButton")
 local UICorner_21 = Instance.new("UICorner")
-local TextLabel_20 = Instance.new("TextLabel")
-local Box = Instance.new("Frame")
-local UIGradient_2 = Instance.new("UIGradient")
+local Shadow_15 = Instance.new("Frame")
 local UICorner_22 = Instance.new("UICorner")
-local TextBox = Instance.new("TextBox")
-local TextLabel_21 = Instance.new("TextLabel")
-local TextLabel_22 = Instance.new("TextLabel")
-local Close = Instance.new("TextButton")
+local TextLabel_19 = Instance.new("TextLabel")
+local BigPaintball = Instance.new("TextButton")
 local UICorner_23 = Instance.new("UICorner")
 local Shadow_16 = Instance.new("Frame")
 local UICorner_24 = Instance.new("UICorner")
+local TextLabel_20 = Instance.new("TextLabel")
+local Settings_2 = Instance.new("Frame")
+local TextLabel_21 = Instance.new("TextLabel")
+local AllGames = Instance.new("Frame")
+local Infinityyield_2 = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
+local Shadow_17 = Instance.new("Frame")
+local UICorner_26 = Instance.new("UICorner")
+local TextLabel_22 = Instance.new("TextLabel")
+local Open = Instance.new("TextButton")
+local Shadow_18 = Instance.new("Frame")
 local TextLabel_23 = Instance.new("TextLabel")
+local login = Instance.new("Frame")
+local Login = Instance.new("TextButton")
+local UICorner_27 = Instance.new("UICorner")
+local Shadow_19 = Instance.new("Frame")
+local UICorner_28 = Instance.new("UICorner")
+local TextLabel_24 = Instance.new("TextLabel")
+local Box = Instance.new("Frame")
+local UIGradient = Instance.new("UIGradient")
+local UICorner_29 = Instance.new("UICorner")
+local TextBox = Instance.new("TextBox")
+local TextLabel_25 = Instance.new("TextLabel")
+local TextLabel_26 = Instance.new("TextLabel")
+local Close = Instance.new("TextButton")
+local UICorner_30 = Instance.new("UICorner")
+local Shadow_20 = Instance.new("Frame")
+local UICorner_31 = Instance.new("UICorner")
+local TextLabel_27 = Instance.new("TextLabel")
+local UICorner_32 = Instance.new("UICorner")
+local UIGradient_2 = Instance.new("UIGradient")
 
 --Properties:
 
@@ -125,10 +144,9 @@ Frame.Name = "Frame"
 Frame.Parent = ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BackgroundTransparency = 1.000
-Frame.Position = UDim2.new(0.286226839, 0, 0.260303348, 0)
+Frame.Position = UDim2.new(-0.319999993, 0, 0.333999991, 0)
 Frame.Selectable = true
-Frame.Size = UDim2.new(0, 819, 0, 517)
-Frame.Visible = false
+Frame.Size = UDim2.new(0, 606, 0, 358)
 Frame.Image = "rbxassetid://3570695787"
 Frame.ImageColor3 = Color3.fromRGB(53, 53, 53)
 Frame.ScaleType = Enum.ScaleType.Slice
@@ -139,7 +157,8 @@ TopBar.Name = "TopBar"
 TopBar.Parent = Frame
 TopBar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TopBar.BackgroundTransparency = 1.000
-TopBar.Size = UDim2.new(0, 819, 0, 47)
+TopBar.Position = UDim2.new(5.06440483e-05, 0, 0, 0)
+TopBar.Size = UDim2.new(0, 606, 0, 32)
 TopBar.ZIndex = 101
 TopBar.Image = "rbxassetid://3570695787"
 TopBar.ImageColor3 = Color3.fromRGB(77, 77, 77)
@@ -151,11 +170,11 @@ Version.Name = "Version"
 Version.Parent = TopBar
 Version.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Version.BackgroundTransparency = 1.000
-Version.Position = UDim2.new(0.376830727, 0, 0, 0)
-Version.Size = UDim2.new(0, 200, 0, 47)
+Version.Position = UDim2.new(0.377812564, 0, 0, 0)
+Version.Size = UDim2.new(0, 148, 0, 32)
 Version.ZIndex = 102
 Version.Font = Enum.Font.SciFi
-Version.Text = "v1.1.0b"
+Version.Text = "v1.2.0"
 Version.TextColor3 = Color3.fromRGB(214, 214, 214)
 Version.TextScaled = true
 Version.TextSize = 14.000
@@ -164,8 +183,8 @@ Version.TextWrapped = true
 TextButton.Parent = TopBar
 TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.BackgroundTransparency = 1.000
-TextButton.Position = UDim2.new(0.912644446, 0, 0, 0)
-TextButton.Size = UDim2.new(0, 71, 0, 47)
+TextButton.Position = UDim2.new(0.914950311, 0, 0, 0)
+TextButton.Size = UDim2.new(0, 52, 0, 32)
 TextButton.ZIndex = 150
 TextButton.Font = Enum.Font.SourceSans
 TextButton.Text = "X"
@@ -178,7 +197,8 @@ SiteBar.Name = "SiteBar"
 SiteBar.Parent = Frame
 SiteBar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 SiteBar.BackgroundTransparency = 1.000
-SiteBar.Size = UDim2.new(0, 156, 0, 517)
+SiteBar.Position = UDim2.new(5.06440483e-05, 0, 0, 0)
+SiteBar.Size = UDim2.new(0, 115, 0, 358)
 SiteBar.Image = "rbxassetid://3570695787"
 SiteBar.ImageColor3 = Color3.fromRGB(77, 77, 77)
 SiteBar.ScaleType = Enum.ScaleType.Slice
@@ -189,8 +209,8 @@ Name.Name = "Name"
 Name.Parent = SiteBar
 Name.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Name.BackgroundTransparency = 1.000
-Name.Position = UDim2.new(-0.146316528, 0, 0, 0)
-Name.Size = UDim2.new(0, 200, 0, 47)
+Name.Position = UDim2.new(-0.146715254, 0, 0, 0)
+Name.Size = UDim2.new(0, 148, 0, 32)
 Name.ZIndex = 103
 Name.Font = Enum.Font.SciFi
 Name.Text = "JK Hub"
@@ -203,8 +223,8 @@ HomeButton.Name = "HomeButton"
 HomeButton.Parent = SiteBar
 HomeButton.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 HomeButton.BorderSizePixel = 0
-HomeButton.Position = UDim2.new(0, 0, 0.0918762013, 0)
-HomeButton.Size = UDim2.new(0, 156, 0, 45)
+HomeButton.Position = UDim2.new(0.000266431714, 0, 0.0920993239, 0)
+HomeButton.Size = UDim2.new(0, 115, 0, 31)
 HomeButton.ZIndex = 2
 HomeButton.Font = Enum.Font.GothamSemibold
 HomeButton.Text = ""
@@ -217,7 +237,8 @@ Shadow.Name = "Shadow"
 Shadow.Parent = HomeButton
 Shadow.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Shadow.BorderSizePixel = 0
-Shadow.Size = UDim2.new(1, 0, 1, 4)
+Shadow.Position = UDim2.new(0.000801418151, 0, -0.0029789093, 0)
+Shadow.Size = UDim2.new(1.00454652, 0, 0.968153298, 4)
 
 TextLabel.Parent = HomeButton
 TextLabel.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -225,8 +246,8 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.BackgroundTransparency = 1.000
 TextLabel.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel.BorderSizePixel = 0
-TextLabel.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel.Size = UDim2.new(1, -20, 1, -20)
+TextLabel.Position = UDim2.new(0.503075123, 0, 0.500830889, 0)
+TextLabel.Size = UDim2.new(1.04967165, -20, 1.20494986, -20)
 TextLabel.ZIndex = 2
 TextLabel.Font = Enum.Font.GothamSemibold
 TextLabel.Text = "Home"
@@ -240,8 +261,8 @@ home.Name = "home"
 home.Parent = HomeButton
 home.BackgroundTransparency = 1.000
 home.LayoutOrder = 2
-home.Position = UDim2.new(0.0641025603, 0, 0.211111128, 0)
-home.Size = UDim2.new(0, 25, 0, 25)
+home.Position = UDim2.new(0.0651956275, 0, 0.20974043, 0)
+home.Size = UDim2.new(0, 18, 0, 17)
 home.ZIndex = 2
 home.Image = "rbxassetid://3926305904"
 home.ImageRectOffset = Vector2.new(964, 204)
@@ -251,8 +272,8 @@ ScriptButton.Name = "ScriptButton"
 ScriptButton.Parent = SiteBar
 ScriptButton.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 ScriptButton.BorderSizePixel = 0
-ScriptButton.Position = UDim2.new(0, 0, 0.178916812, 0)
-ScriptButton.Size = UDim2.new(0, 156, 0, 45)
+ScriptButton.Position = UDim2.new(0.000266431714, 0, 0.1793513, 0)
+ScriptButton.Size = UDim2.new(0, 115, 0, 31)
 ScriptButton.ZIndex = 2
 ScriptButton.Font = Enum.Font.GothamSemibold
 ScriptButton.Text = ""
@@ -265,7 +286,8 @@ Shadow_2.Name = "Shadow"
 Shadow_2.Parent = ScriptButton
 Shadow_2.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Shadow_2.BorderSizePixel = 0
-Shadow_2.Size = UDim2.new(1, 0, 1, 4)
+Shadow_2.Position = UDim2.new(0.000801418151, 0, -0.00580227748, 0)
+Shadow_2.Size = UDim2.new(1.00454652, 0, 0.968153298, 4)
 
 TextLabel_2.Parent = ScriptButton
 TextLabel_2.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -273,8 +295,8 @@ TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.BackgroundTransparency = 1.000
 TextLabel_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel_2.BorderSizePixel = 0
-TextLabel_2.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_2.Size = UDim2.new(1, -20, 1, -20)
+TextLabel_2.Position = UDim2.new(0.503075123, 0, 0.498007506, 0)
+TextLabel_2.Size = UDim2.new(1.04967165, -20, 1.20494986, -20)
 TextLabel_2.ZIndex = 2
 TextLabel_2.Font = Enum.Font.GothamSemibold
 TextLabel_2.Text = "Scripts"
@@ -288,8 +310,8 @@ explore.Name = "explore"
 explore.Parent = ScriptButton
 explore.BackgroundTransparency = 1.000
 explore.LayoutOrder = 6
-explore.Position = UDim2.new(0.0641025603, 0, 0.211111099, 0)
-explore.Size = UDim2.new(0, 25, 0, 25)
+explore.Position = UDim2.new(0.0651956275, 0, 0.206917062, 0)
+explore.Size = UDim2.new(0, 18, 0, 17)
 explore.ZIndex = 2
 explore.Image = "rbxassetid://3926305904"
 explore.ImageRectOffset = Vector2.new(924, 284)
@@ -299,8 +321,8 @@ Settings.Name = "Settings"
 Settings.Parent = SiteBar
 Settings.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Settings.BorderSizePixel = 0
-Settings.Position = UDim2.new(0, 0, 0.265957415, 0)
-Settings.Size = UDim2.new(0, 156, 0, 45)
+Settings.Position = UDim2.new(0.000266431714, 0, 0.261016667, 0)
+Settings.Size = UDim2.new(0, 115, 0, 31)
 Settings.ZIndex = 2
 Settings.Font = Enum.Font.GothamSemibold
 Settings.Text = ""
@@ -313,7 +335,8 @@ Shadow_3.Name = "Shadow"
 Shadow_3.Parent = Settings
 Shadow_3.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Shadow_3.BorderSizePixel = 0
-Shadow_3.Size = UDim2.new(1, 0, 1, 4)
+Shadow_3.Position = UDim2.new(0.000801418151, 0, -0.00862367731, 0)
+Shadow_3.Size = UDim2.new(1.00454652, 0, 0.968153298, 4)
 
 TextLabel_3.Parent = Settings
 TextLabel_3.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -321,8 +344,8 @@ TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_3.BackgroundTransparency = 1.000
 TextLabel_3.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel_3.BorderSizePixel = 0
-TextLabel_3.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_3.Size = UDim2.new(1, -20, 1, -20)
+TextLabel_3.Position = UDim2.new(0.503075123, 0, 0.495185107, 0)
+TextLabel_3.Size = UDim2.new(1.04967165, -20, 1.20494986, -20)
 TextLabel_3.ZIndex = 2
 TextLabel_3.Font = Enum.Font.GothamSemibold
 TextLabel_3.Text = "Settings"
@@ -335,8 +358,8 @@ TextLabel_3.TextXAlignment = Enum.TextXAlignment.Right
 settings.Name = "settings"
 settings.Parent = Settings
 settings.BackgroundTransparency = 1.000
-settings.Position = UDim2.new(0.0641025603, 0, 0.211111128, 0)
-settings.Size = UDim2.new(0, 25, 0, 25)
+settings.Position = UDim2.new(0.0651956275, 0, 0.204095662, 0)
+settings.Size = UDim2.new(0, 18, 0, 17)
 settings.ZIndex = 2
 settings.Image = "rbxassetid://3926307971"
 settings.ImageRectOffset = Vector2.new(324, 124)
@@ -346,8 +369,8 @@ Credits.Name = "Credits"
 Credits.Parent = SiteBar
 Credits.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Credits.BorderSizePixel = 0
-Credits.Position = UDim2.new(0, 0, 0.352998018, 0)
-Credits.Size = UDim2.new(0, 156, 0, 45)
+Credits.Position = UDim2.new(0.000266431831, 0, 0.345475286, 0)
+Credits.Size = UDim2.new(0, 115, 0, 31)
 Credits.ZIndex = 2
 Credits.Font = Enum.Font.GothamSemibold
 Credits.Text = ""
@@ -360,7 +383,8 @@ Shadow_4.Name = "Shadow"
 Shadow_4.Parent = Credits
 Shadow_4.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Shadow_4.BorderSizePixel = 0
-Shadow_4.Size = UDim2.new(1, 0, 1, 4)
+Shadow_4.Position = UDim2.new(0.000801418151, 0, -0.011447045, 0)
+Shadow_4.Size = UDim2.new(1.00454652, 0, 0.968153298, 4)
 
 TextLabel_4.Parent = Credits
 TextLabel_4.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -368,8 +392,8 @@ TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_4.BackgroundTransparency = 1.000
 TextLabel_4.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel_4.BorderSizePixel = 0
-TextLabel_4.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_4.Size = UDim2.new(1, -20, 1, -20)
+TextLabel_4.Position = UDim2.new(0.503075123, 0, 0.492362738, 0)
+TextLabel_4.Size = UDim2.new(1.04967165, -20, 1.20494986, -20)
 TextLabel_4.ZIndex = 2
 TextLabel_4.Font = Enum.Font.GothamSemibold
 TextLabel_4.Text = "Credits"
@@ -383,8 +407,8 @@ group.Name = "group"
 group.Parent = Credits
 group.BackgroundTransparency = 1.000
 group.LayoutOrder = 6
-group.Position = UDim2.new(0.0641025603, 0, 0.211111099, 0)
-group.Size = UDim2.new(0, 25, 0, 25)
+group.Position = UDim2.new(0.0651956275, 0, 0.201272294, 0)
+group.Size = UDim2.new(0, 18, 0, 17)
 group.ZIndex = 2
 group.Image = "rbxassetid://3926305904"
 group.ImageRectOffset = Vector2.new(4, 844)
@@ -394,8 +418,8 @@ Jkgamer1_0.Name = "Jkgamer1_0"
 Jkgamer1_0.Parent = SiteBar
 Jkgamer1_0.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Jkgamer1_0.BackgroundTransparency = 1.000
-Jkgamer1_0.Position = UDim2.new(0.0641025677, 0, 0.903288186, 0)
-Jkgamer1_0.Size = UDim2.new(0, 136, 0, 50)
+Jkgamer1_0.Position = UDim2.new(0.064660646, 0, 0.905481458, 0)
+Jkgamer1_0.Size = UDim2.new(0, 100, 0, 34)
 Jkgamer1_0.ZIndex = 1000
 Jkgamer1_0.Font = Enum.Font.SciFi
 Jkgamer1_0.Text = "Jkgamer1_0#1076"
@@ -408,8 +432,8 @@ Islands.Name = "Islands"
 Islands.Parent = Frame
 Islands.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Islands.BackgroundTransparency = 1.000
-Islands.Position = UDim2.new(0.178266183, 0, 0.0918762088, 0)
-Islands.Size = UDim2.new(0, 673, 0, 469)
+Islands.Position = UDim2.new(0.17875734, 0, 0.0920993239, 0)
+Islands.Size = UDim2.new(0, 498, 0, 325)
 Islands.Visible = false
 Islands.ZIndex = 150
 
@@ -417,8 +441,8 @@ Void.Name = "Void"
 Void.Parent = Islands
 Void.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Void.BorderSizePixel = 0
-Void.Position = UDim2.new(0.0287437476, 0, 0.0203814488, 0)
-Void.Size = UDim2.new(0, 643, 0, 45)
+Void.Position = UDim2.new(0.0292798057, 0, 0.0201318357, 0)
+Void.Size = UDim2.new(0, 476, 0, 31)
 Void.ZIndex = 2
 Void.Font = Enum.Font.GothamSemibold
 Void.Text = ""
@@ -434,7 +458,8 @@ Shadow_5.Name = "Shadow"
 Shadow_5.Parent = Void
 Shadow_5.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Shadow_5.BorderSizePixel = 0
-Shadow_5.Size = UDim2.new(1, 0, 1, 4)
+Shadow_5.Position = UDim2.new(0.00141537318, 0, -0.00401355373, 0)
+Shadow_5.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
 
 UICorner_2.CornerRadius = UDim.new(1, 0)
 UICorner_2.Parent = Shadow_5
@@ -445,8 +470,8 @@ TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_5.BackgroundTransparency = 1.000
 TextLabel_5.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel_5.BorderSizePixel = 0
-TextLabel_5.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_5.Size = UDim2.new(1, -20, 1, -20)
+TextLabel_5.Position = UDim2.new(0.502637863, 0, 0.499796212, 0)
+TextLabel_5.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
 TextLabel_5.ZIndex = 2
 TextLabel_5.Font = Enum.Font.GothamSemibold
 TextLabel_5.Text = "Void (Krnl,Synapse X)"
@@ -459,8 +484,8 @@ LumberTycoon2.Name = "Lumber Tycoon 2"
 LumberTycoon2.Parent = Frame
 LumberTycoon2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 LumberTycoon2.BackgroundTransparency = 1.000
-LumberTycoon2.Position = UDim2.new(0.178266183, 0, 0.0918762088, 0)
-LumberTycoon2.Size = UDim2.new(0, 673, 0, 469)
+LumberTycoon2.Position = UDim2.new(0.17875734, 0, 0.0920993239, 0)
+LumberTycoon2.Size = UDim2.new(0, 498, 0, 325)
 LumberTycoon2.Visible = false
 LumberTycoon2.ZIndex = 150
 
@@ -468,8 +493,8 @@ Bark.Name = "Bark"
 Bark.Parent = LumberTycoon2
 Bark.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Bark.BorderSizePixel = 0
-Bark.Position = UDim2.new(0.0287437476, 0, 0.0203814488, 0)
-Bark.Size = UDim2.new(0, 643, 0, 45)
+Bark.Position = UDim2.new(0.0292798057, 0, 0.0201318357, 0)
+Bark.Size = UDim2.new(0, 476, 0, 31)
 Bark.ZIndex = 2
 Bark.Font = Enum.Font.GothamSemibold
 Bark.Text = ""
@@ -485,7 +510,8 @@ Shadow_6.Name = "Shadow"
 Shadow_6.Parent = Bark
 Shadow_6.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Shadow_6.BorderSizePixel = 0
-Shadow_6.Size = UDim2.new(1, 0, 1, 4)
+Shadow_6.Position = UDim2.new(0.00141537318, 0, -0.00401355373, 0)
+Shadow_6.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
 
 UICorner_4.CornerRadius = UDim.new(1, 0)
 UICorner_4.Parent = Shadow_6
@@ -496,8 +522,8 @@ TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_6.BackgroundTransparency = 1.000
 TextLabel_6.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel_6.BorderSizePixel = 0
-TextLabel_6.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_6.Size = UDim2.new(1, -20, 1, -20)
+TextLabel_6.Position = UDim2.new(0.502637863, 0, 0.499796212, 0)
+TextLabel_6.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
 TextLabel_6.ZIndex = 2
 TextLabel_6.Font = Enum.Font.GothamSemibold
 TextLabel_6.Text = "Bark (Krnl,Synapse X)"
@@ -506,120 +532,207 @@ TextLabel_6.TextScaled = true
 TextLabel_6.TextSize = 14.000
 TextLabel_6.TextWrapped = true
 
-Ancestor.Name = "Ancestor"
-Ancestor.Parent = LumberTycoon2
-Ancestor.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
-Ancestor.BorderSizePixel = 0
-Ancestor.Position = UDim2.new(0.0287437476, 0, 0.124859065, 0)
-Ancestor.Size = UDim2.new(0, 643, 0, 45)
-Ancestor.ZIndex = 2
-Ancestor.Font = Enum.Font.GothamSemibold
-Ancestor.Text = ""
-Ancestor.TextColor3 = Color3.fromRGB(255, 255, 255)
-Ancestor.TextScaled = true
-Ancestor.TextSize = 14.000
-Ancestor.TextWrapped = true
+Blood.Name = "Blood"
+Blood.Parent = LumberTycoon2
+Blood.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
+Blood.BorderSizePixel = 0
+Blood.Position = UDim2.new(0.0292798057, 0, 0.124786474, 0)
+Blood.Size = UDim2.new(0, 476, 0, 31)
+Blood.ZIndex = 2
+Blood.Font = Enum.Font.GothamSemibold
+Blood.Text = ""
+Blood.TextColor3 = Color3.fromRGB(255, 255, 255)
+Blood.TextScaled = true
+Blood.TextSize = 14.000
+Blood.TextWrapped = true
 
 UICorner_5.CornerRadius = UDim.new(1, 0)
-UICorner_5.Parent = Ancestor
+UICorner_5.Parent = Blood
 
 Shadow_7.Name = "Shadow"
-Shadow_7.Parent = Ancestor
+Shadow_7.Parent = Blood
 Shadow_7.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Shadow_7.BorderSizePixel = 0
-Shadow_7.Size = UDim2.new(1, 0, 1, 4)
+Shadow_7.Position = UDim2.new(0.00141537318, 0, -0.00740002049, 0)
+Shadow_7.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
 
 UICorner_6.CornerRadius = UDim.new(1, 0)
 UICorner_6.Parent = Shadow_7
 
-TextLabel_7.Parent = Ancestor
+TextLabel_7.Parent = Blood
 TextLabel_7.AnchorPoint = Vector2.new(0.5, 0.5)
 TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_7.BackgroundTransparency = 1.000
 TextLabel_7.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel_7.BorderSizePixel = 0
-TextLabel_7.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_7.Size = UDim2.new(1, -20, 1, -20)
+TextLabel_7.Position = UDim2.new(0.502637863, 0, 0.496409744, 0)
+TextLabel_7.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
 TextLabel_7.ZIndex = 2
 TextLabel_7.Font = Enum.Font.GothamSemibold
-TextLabel_7.Text = "Ancestor V3 (Krnl,Synapse X)"
+TextLabel_7.Text = "Blood (Krnl,Synapse X)"
 TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_7.TextScaled = true
 TextLabel_7.TextSize = 14.000
 TextLabel_7.TextWrapped = true
+
+ExtremeDupe.Name = "Extreme Dupe"
+ExtremeDupe.Parent = LumberTycoon2
+ExtremeDupe.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
+ExtremeDupe.BorderSizePixel = 0
+ExtremeDupe.Position = UDim2.new(0.0289999992, 0, 0.226999998, 0)
+ExtremeDupe.Size = UDim2.new(0, 476, 0, 31)
+ExtremeDupe.ZIndex = 2
+ExtremeDupe.Font = Enum.Font.GothamSemibold
+ExtremeDupe.Text = ""
+ExtremeDupe.TextColor3 = Color3.fromRGB(255, 255, 255)
+ExtremeDupe.TextScaled = true
+ExtremeDupe.TextSize = 14.000
+ExtremeDupe.TextWrapped = true
+
+UICorner_7.CornerRadius = UDim.new(1, 0)
+UICorner_7.Parent = ExtremeDupe
+
+Shadow_8.Name = "Shadow"
+Shadow_8.Parent = ExtremeDupe
+Shadow_8.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_8.BorderSizePixel = 0
+Shadow_8.Position = UDim2.new(0.00141537318, 0, -0.00740002049, 0)
+Shadow_8.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
+
+UICorner_8.CornerRadius = UDim.new(1, 0)
+UICorner_8.Parent = Shadow_8
+
+TextLabel_8.Parent = ExtremeDupe
+TextLabel_8.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.BackgroundTransparency = 1.000
+TextLabel_8.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_8.BorderSizePixel = 0
+TextLabel_8.Position = UDim2.new(0.502637863, 0, 0.496409744, 0)
+TextLabel_8.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
+TextLabel_8.ZIndex = 2
+TextLabel_8.Font = Enum.Font.GothamSemibold
+TextLabel_8.Text = "Extreme Dupe (Krnl,Synapse X)"
+TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.TextScaled = true
+TextLabel_8.TextSize = 14.000
+TextLabel_8.TextWrapped = true
+
+Wallops.Name = "Wallops"
+Wallops.Parent = LumberTycoon2
+Wallops.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
+Wallops.BorderSizePixel = 0
+Wallops.Position = UDim2.new(0.0289999992, 0, 0.328538477, 0)
+Wallops.Size = UDim2.new(0, 476, 0, 31)
+Wallops.ZIndex = 2
+Wallops.Font = Enum.Font.GothamSemibold
+Wallops.Text = ""
+Wallops.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallops.TextScaled = true
+Wallops.TextSize = 14.000
+Wallops.TextWrapped = true
+
+UICorner_9.CornerRadius = UDim.new(1, 0)
+UICorner_9.Parent = Wallops
+
+Shadow_9.Name = "Shadow"
+Shadow_9.Parent = Wallops
+Shadow_9.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_9.BorderSizePixel = 0
+Shadow_9.Position = UDim2.new(0.00141537318, 0, -0.00740002049, 0)
+Shadow_9.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
+
+UICorner_10.CornerRadius = UDim.new(1, 0)
+UICorner_10.Parent = Shadow_9
+
+TextLabel_9.Parent = Wallops
+TextLabel_9.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_9.BackgroundTransparency = 1.000
+TextLabel_9.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_9.BorderSizePixel = 0
+TextLabel_9.Position = UDim2.new(0.502637863, 0, 0.496409744, 0)
+TextLabel_9.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
+TextLabel_9.ZIndex = 2
+TextLabel_9.Font = Enum.Font.GothamSemibold
+TextLabel_9.Text = "Wallops (Krnl,Synapse X)"
+TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_9.TextScaled = true
+TextLabel_9.TextSize = 14.000
+TextLabel_9.TextWrapped = true
 
 Credits_2.Name = "Credits"
 Credits_2.Parent = Frame
 Credits_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Credits_2.BackgroundTransparency = 1.000
 Credits_2.BorderSizePixel = 0
-Credits_2.Position = UDim2.new(0.190476194, 0, 0.0909090936, 0)
-Credits_2.Size = UDim2.new(0, 663, 0, 470)
+Credits_2.Position = UDim2.new(0.190997466, 0, 0.0911298394, 0)
+Credits_2.Size = UDim2.new(0, 490, 0, 326)
 Credits_2.Visible = false
 Credits_2.ZIndex = 150
 
-TextLabel_8.Parent = Credits_2
-TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_8.BackgroundTransparency = 1.000
-TextLabel_8.Position = UDim2.new(0, 0, 0.0193294436, 0)
-TextLabel_8.Size = UDim2.new(0, 662, 0, 68)
-TextLabel_8.Font = Enum.Font.SourceSans
-TextLabel_8.Text = "Owner: Jkgamer1_0#1076"
-TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_8.TextScaled = true
-TextLabel_8.TextSize = 14.000
-TextLabel_8.TextWrapped = true
+TextLabel_10.Parent = Credits_2
+TextLabel_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_10.BackgroundTransparency = 1.000
+TextLabel_10.Position = UDim2.new(0.000490149658, 0, 0.019063564, 0)
+TextLabel_10.Size = UDim2.new(0, 490, 0, 68)
+TextLabel_10.Font = Enum.Font.SourceSans
+TextLabel_10.Text = "Owner: Jkgamer1_0#1076"
+TextLabel_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_10.TextScaled = true
+TextLabel_10.TextSize = 14.000
+TextLabel_10.TextWrapped = true
 
 Home.Name = "Home"
 Home.Parent = Frame
 Home.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Home.BackgroundTransparency = 1.000
 Home.BorderSizePixel = 0
-Home.Position = UDim2.new(0.190476194, 0, 0.0909090936, 0)
-Home.Size = UDim2.new(0, 663, 0, 470)
+Home.Position = UDim2.new(0.190997466, 0, 0.0911298394, 0)
+Home.Size = UDim2.new(0, 490, 0, 326)
 Home.ZIndex = 150
-
-TextLabel_9.Parent = Home
-TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_9.BackgroundTransparency = 1.000
-TextLabel_9.Position = UDim2.new(0.0135746608, 0, 0.893617034, 0)
-TextLabel_9.Size = UDim2.new(0, 200, 0, 50)
-TextLabel_9.Font = Enum.Font.SciFi
-TextLabel_9.Text = "Discord Link:"
-TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_9.TextScaled = true
-TextLabel_9.TextSize = 14.000
-TextLabel_9.TextWrapped = true
-
-TextLabel_10.Parent = Home
-TextLabel_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_10.BackgroundTransparency = 1.000
-TextLabel_10.Position = UDim2.new(0.315233797, 0, 0.893617034, 0)
-TextLabel_10.Size = UDim2.new(0, 453, 0, 50)
-TextLabel_10.Font = Enum.Font.SciFi
-TextLabel_10.Text = "https://discord.gg/KxNTUkUJYK"
-TextLabel_10.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_10.TextScaled = true
-TextLabel_10.TextSize = 14.000
-TextLabel_10.TextWrapped = true
 
 TextLabel_11.Parent = Home
 TextLabel_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_11.BackgroundTransparency = 1.000
-TextLabel_11.Position = UDim2.new(-0.00124491751, 0, -0.0340425558, 0)
-TextLabel_11.Size = UDim2.new(0, 453, 0, 76)
+TextLabel_11.Position = UDim2.new(0.014091772, 0, 0.894007564, 0)
+TextLabel_11.Size = UDim2.new(0, 148, 0, 34)
 TextLabel_11.Font = Enum.Font.SciFi
-TextLabel_11.Text = "Thanks for using JK Hub."
+TextLabel_11.Text = "Discord Link:"
 TextLabel_11.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_11.TextScaled = true
 TextLabel_11.TextSize = 14.000
 TextLabel_11.TextWrapped = true
 
+TextLabel_12.Parent = Home
+TextLabel_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_12.BackgroundTransparency = 1.000
+TextLabel_12.Position = UDim2.new(0.316349328, 0, 0.894007564, 0)
+TextLabel_12.Size = UDim2.new(0, 335, 0, 34)
+TextLabel_12.Font = Enum.Font.SciFi
+TextLabel_12.Text = "https://discord.gg/KxNTUkUJYK"
+TextLabel_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_12.TextScaled = true
+TextLabel_12.TextSize = 14.000
+TextLabel_12.TextWrapped = true
+
+TextLabel_13.Parent = Home
+TextLabel_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_13.BackgroundTransparency = 1.000
+TextLabel_13.Position = UDim2.new(-0.000757209607, 0, -0.0343484692, 0)
+TextLabel_13.Size = UDim2.new(0, 335, 0, 52)
+TextLabel_13.Font = Enum.Font.SciFi
+TextLabel_13.Text = "Thanks for using JK Hub."
+TextLabel_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_13.TextScaled = true
+TextLabel_13.TextSize = 14.000
+TextLabel_13.TextWrapped = true
+
 arrowLeft.Name = "arrowLeft"
 arrowLeft.Parent = Home
 arrowLeft.BackgroundTransparency = 1.000
-arrowLeft.Position = UDim2.new(-0.000754147768, 0, 0.102127656, 0)
-arrowLeft.Size = UDim2.new(0, 48, 0, 43)
+arrowLeft.Position = UDim2.new(-0.000265440642, 0, 0.101923935, 0)
+arrowLeft.Size = UDim2.new(0, 35, 0, 29)
 arrowLeft.ZIndex = 2
 arrowLeft.Image = "rbxassetid://6764432408"
 arrowLeft.ImageRectOffset = Vector2.new(0, 550)
@@ -629,8 +742,8 @@ Youcanfindallscriptshere.Name = "\\nYou can find all scripts here"
 Youcanfindallscriptshere.Parent = Home
 Youcanfindallscriptshere.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Youcanfindallscriptshere.BackgroundTransparency = 1.000
-Youcanfindallscriptshere.Position = UDim2.new(0.0716440454, 0, 0.0914893672, 0)
-Youcanfindallscriptshere.Size = UDim2.new(0, 393, 0, 50)
+Youcanfindallscriptshere.Position = UDim2.new(0.0722764581, 0, 0.0912777036, 0)
+Youcanfindallscriptshere.Size = UDim2.new(0, 291, 0, 34)
 Youcanfindallscriptshere.Font = Enum.Font.SciFi
 Youcanfindallscriptshere.Text = "You can find all scripts here"
 Youcanfindallscriptshere.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -642,8 +755,8 @@ ChangeLog.Name = "ChangeLog"
 ChangeLog.Parent = Home
 ChangeLog.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ChangeLog.BackgroundTransparency = 1.000
-ChangeLog.Position = UDim2.new(0.0527903475, 0, 0.242553189, 0)
-ChangeLog.Size = UDim2.new(0, 556, 0, 288)
+ChangeLog.Position = UDim2.new(0.0533853322, 0, 0.242454946, 0)
+ChangeLog.Size = UDim2.new(0, 411, 0, 199)
 ChangeLog.Image = "rbxassetid://3570695787"
 ChangeLog.ImageColor3 = Color3.fromRGB(70, 70, 70)
 ChangeLog.ScaleType = Enum.ScaleType.Slice
@@ -654,8 +767,8 @@ ChancgeLog.Name = "Chancge Log"
 ChancgeLog.Parent = ChangeLog
 ChancgeLog.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ChancgeLog.BackgroundTransparency = 1.000
-ChancgeLog.Position = UDim2.new(-0.0645176172, 0, -0.000502347946, 0)
-ChancgeLog.Size = UDim2.new(0, 299, 0, 41)
+ChancgeLog.Position = UDim2.new(-0.0630071908, 0, -0.00224526552, 0)
+ChancgeLog.Size = UDim2.new(0, 221, 0, 28)
 ChancgeLog.Font = Enum.Font.SciFi
 ChancgeLog.Text = "Change Log:"
 ChancgeLog.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -667,10 +780,10 @@ _1.Name = "1"
 _1.Parent = ChangeLog
 _1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 _1.BackgroundTransparency = 1.000
-_1.Position = UDim2.new(0, 0, 0.170138896, 0)
-_1.Size = UDim2.new(0, 556, 0, 50)
+_1.Position = UDim2.new(0.00178356632, 0, 0.1691778, 0)
+_1.Size = UDim2.new(0, 411, 0, 34)
 _1.Font = Enum.Font.SourceSans
-_1.Text = "+ Change Log"
+_1.Text = "+ Lumber Tycoon 2 Extreme Dupe script"
 _1.TextColor3 = Color3.fromRGB(255, 255, 255)
 _1.TextScaled = true
 _1.TextSize = 14.000
@@ -681,10 +794,10 @@ _2.Name = "2"
 _2.Parent = ChangeLog
 _2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 _2.BackgroundTransparency = 1.000
-_2.Position = UDim2.new(0, 0, 0.34375, 0)
-_2.Size = UDim2.new(0, 556, 0, 50)
+_2.Position = UDim2.new(0.00178356632, 0, 0.34358421, 0)
+_2.Size = UDim2.new(0, 411, 0, 34)
 _2.Font = Enum.Font.SourceSans
-_2.Text = "+ Arsenal Scripts"
+_2.Text = "+ Lumber Tycoon 2 Wallops script"
 _2.TextColor3 = Color3.fromRGB(255, 255, 255)
 _2.TextScaled = true
 _2.TextSize = 14.000
@@ -695,10 +808,10 @@ _3.Name = "3"
 _3.Parent = ChangeLog
 _3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 _3.BackgroundTransparency = 1.000
-_3.Position = UDim2.new(0, 0, 0.517361104, 0)
-_3.Size = UDim2.new(0, 556, 0, 50)
+_3.Position = UDim2.new(0.00178356632, 0, 0.517990828, 0)
+_3.Size = UDim2.new(0, 411, 0, 34)
 _3.Font = Enum.Font.SourceSans
-_3.Text = "+ Scripts for all games"
+_3.Text = "+ Big Paintball Support"
 _3.TextColor3 = Color3.fromRGB(255, 255, 255)
 _3.TextScaled = true
 _3.TextSize = 14.000
@@ -709,10 +822,10 @@ _4.Name = "4"
 _4.Parent = ChangeLog
 _4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 _4.BackgroundTransparency = 1.000
-_4.Position = UDim2.new(0, 0, 0.690972209, 0)
-_4.Size = UDim2.new(0, 556, 0, 50)
+_4.Position = UDim2.new(0.00178356632, 0, 0.692397356, 0)
+_4.Size = UDim2.new(0, 411, 0, 34)
 _4.Font = Enum.Font.SourceSans
-_4.Text = "+ Fixed Infinity Yield"
+_4.Text = "+ Animations"
 _4.TextColor3 = Color3.fromRGB(255, 255, 255)
 _4.TextScaled = true
 _4.TextSize = 14.000
@@ -723,8 +836,8 @@ Arsenal.Name = "Arsenal"
 Arsenal.Parent = Frame
 Arsenal.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Arsenal.BackgroundTransparency = 1.000
-Arsenal.Position = UDim2.new(0.178266183, 0, 0.0918762088, 0)
-Arsenal.Size = UDim2.new(0, 673, 0, 469)
+Arsenal.Position = UDim2.new(0.17875734, 0, 0.0920993239, 0)
+Arsenal.Size = UDim2.new(0, 498, 0, 325)
 Arsenal.Visible = false
 Arsenal.ZIndex = 150
 
@@ -732,8 +845,8 @@ Zyrexhub.Name = "Zyrex hub"
 Zyrexhub.Parent = Arsenal
 Zyrexhub.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Zyrexhub.BorderSizePixel = 0
-Zyrexhub.Position = UDim2.new(0.0287437476, 0, 0.0203814488, 0)
-Zyrexhub.Size = UDim2.new(0, 643, 0, 45)
+Zyrexhub.Position = UDim2.new(0.0292798057, 0, 0.0201318357, 0)
+Zyrexhub.Size = UDim2.new(0, 476, 0, 31)
 Zyrexhub.ZIndex = 2
 Zyrexhub.Font = Enum.Font.GothamSemibold
 Zyrexhub.Text = ""
@@ -742,49 +855,50 @@ Zyrexhub.TextScaled = true
 Zyrexhub.TextSize = 14.000
 Zyrexhub.TextWrapped = true
 
-UICorner_7.CornerRadius = UDim.new(1, 0)
-UICorner_7.Parent = Zyrexhub
+UICorner_11.CornerRadius = UDim.new(1, 0)
+UICorner_11.Parent = Zyrexhub
 
-Shadow_8.Name = "Shadow"
-Shadow_8.Parent = Zyrexhub
-Shadow_8.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-Shadow_8.BorderSizePixel = 0
-Shadow_8.Size = UDim2.new(1, 0, 1, 4)
+Shadow_10.Name = "Shadow"
+Shadow_10.Parent = Zyrexhub
+Shadow_10.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_10.BorderSizePixel = 0
+Shadow_10.Position = UDim2.new(0.00141537318, 0, -0.00401355373, 0)
+Shadow_10.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
 
-UICorner_8.CornerRadius = UDim.new(1, 0)
-UICorner_8.Parent = Shadow_8
+UICorner_12.CornerRadius = UDim.new(1, 0)
+UICorner_12.Parent = Shadow_10
 
-TextLabel_12.Parent = Zyrexhub
-TextLabel_12.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_12.BackgroundTransparency = 1.000
-TextLabel_12.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_12.BorderSizePixel = 0
-TextLabel_12.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_12.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_12.ZIndex = 2
-TextLabel_12.Font = Enum.Font.GothamSemibold
-TextLabel_12.Text = "Zyrex (Krnl,Synapse X)"
-TextLabel_12.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_12.TextScaled = true
-TextLabel_12.TextSize = 14.000
-TextLabel_12.TextWrapped = true
+TextLabel_14.Parent = Zyrexhub
+TextLabel_14.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_14.BackgroundTransparency = 1.000
+TextLabel_14.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_14.BorderSizePixel = 0
+TextLabel_14.Position = UDim2.new(0.502637863, 0, 0.499796212, 0)
+TextLabel_14.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
+TextLabel_14.ZIndex = 2
+TextLabel_14.Font = Enum.Font.GothamSemibold
+TextLabel_14.Text = "Zyrex (Krnl,Synapse X)"
+TextLabel_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_14.TextScaled = true
+TextLabel_14.TextSize = 14.000
+TextLabel_14.TextWrapped = true
 
-AllGames.Name = "AllGames"
-AllGames.Parent = Frame
-AllGames.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-AllGames.BackgroundTransparency = 1.000
-AllGames.Position = UDim2.new(0.178266183, 0, 0.0918762088, 0)
-AllGames.Size = UDim2.new(0, 673, 0, 469)
-AllGames.Visible = false
-AllGames.ZIndex = 150
+BigPaintBall.Name = "Big PaintBall"
+BigPaintBall.Parent = Frame
+BigPaintBall.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BigPaintBall.BackgroundTransparency = 1.000
+BigPaintBall.Position = UDim2.new(0.17875734, 0, 0.0920993239, 0)
+BigPaintBall.Size = UDim2.new(0, 498, 0, 325)
+BigPaintBall.Visible = false
+BigPaintBall.ZIndex = 150
 
 Infinityyield.Name = "Infinity yield"
-Infinityyield.Parent = AllGames
+Infinityyield.Parent = BigPaintBall
 Infinityyield.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Infinityyield.BorderSizePixel = 0
-Infinityyield.Position = UDim2.new(0.0287437476, 0, 0.0203814488, 0)
-Infinityyield.Size = UDim2.new(0, 643, 0, 45)
+Infinityyield.Position = UDim2.new(0.0292798057, 0, 0.0201318357, 0)
+Infinityyield.Size = UDim2.new(0, 476, 0, 31)
 Infinityyield.ZIndex = 2
 Infinityyield.Font = Enum.Font.GothamSemibold
 Infinityyield.Text = ""
@@ -793,33 +907,34 @@ Infinityyield.TextScaled = true
 Infinityyield.TextSize = 14.000
 Infinityyield.TextWrapped = true
 
-UICorner_9.CornerRadius = UDim.new(1, 0)
-UICorner_9.Parent = Infinityyield
+UICorner_13.CornerRadius = UDim.new(1, 0)
+UICorner_13.Parent = Infinityyield
 
-Shadow_9.Name = "Shadow"
-Shadow_9.Parent = Infinityyield
-Shadow_9.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-Shadow_9.BorderSizePixel = 0
-Shadow_9.Size = UDim2.new(1, 0, 1, 4)
+Shadow_11.Name = "Shadow"
+Shadow_11.Parent = Infinityyield
+Shadow_11.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_11.BorderSizePixel = 0
+Shadow_11.Position = UDim2.new(0.00141537318, 0, -0.00401355373, 0)
+Shadow_11.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
 
-UICorner_10.CornerRadius = UDim.new(1, 0)
-UICorner_10.Parent = Shadow_9
+UICorner_14.CornerRadius = UDim.new(1, 0)
+UICorner_14.Parent = Shadow_11
 
-TextLabel_13.Parent = Infinityyield
-TextLabel_13.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_13.BackgroundTransparency = 1.000
-TextLabel_13.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_13.BorderSizePixel = 0
-TextLabel_13.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_13.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_13.ZIndex = 2
-TextLabel_13.Font = Enum.Font.GothamSemibold
-TextLabel_13.Text = "Infinite Yield (Krnl, Synapse X)"
-TextLabel_13.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_13.TextScaled = true
-TextLabel_13.TextSize = 14.000
-TextLabel_13.TextWrapped = true
+TextLabel_15.Parent = Infinityyield
+TextLabel_15.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_15.BackgroundTransparency = 1.000
+TextLabel_15.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_15.BorderSizePixel = 0
+TextLabel_15.Position = UDim2.new(0.502637863, 0, 0.499796212, 0)
+TextLabel_15.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
+TextLabel_15.ZIndex = 2
+TextLabel_15.Font = Enum.Font.GothamSemibold
+TextLabel_15.Text = "Dark (Krnl, Synapse X)"
+TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_15.TextScaled = true
+TextLabel_15.TextSize = 14.000
+TextLabel_15.TextWrapped = true
 
 Scripts.Name = "Scripts"
 Scripts.Parent = Frame
@@ -827,8 +942,8 @@ Scripts.Active = true
 Scripts.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Scripts.BackgroundTransparency = 1.000
 Scripts.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Scripts.Position = UDim2.new(0.190476194, 0, 0.0909090936, 0)
-Scripts.Size = UDim2.new(0, 663, 0, 470)
+Scripts.Position = UDim2.new(0.190997466, 0, 0.0911298394, 0)
+Scripts.Size = UDim2.new(0, 490, 0, 326)
 Scripts.Visible = false
 Scripts.ZIndex = 150
 
@@ -836,7 +951,8 @@ Games.Name = "Games"
 Games.Parent = Scripts
 Games.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Games.BackgroundTransparency = 1.000
-Games.Size = UDim2.new(0, 200, 0, 50)
+Games.Position = UDim2.new(0.000490149658, 0, -0.000280368549, 0)
+Games.Size = UDim2.new(0, 148, 0, 34)
 Games.Font = Enum.Font.SciFi
 Games.Text = "Games:"
 Games.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -848,8 +964,8 @@ IslandsScripts.Name = "Islands (Scripts)"
 IslandsScripts.Parent = Scripts
 IslandsScripts.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 IslandsScripts.BorderSizePixel = 0
-IslandsScripts.Position = UDim2.new(0.00999999978, 0, 0.141000003, 0)
-IslandsScripts.Size = UDim2.new(0, 638, 0, 45)
+IslandsScripts.Position = UDim2.new(0.00400000019, 0, 0.147, 0)
+IslandsScripts.Size = UDim2.new(0, 472, 0, 31)
 IslandsScripts.ZIndex = 2
 IslandsScripts.Font = Enum.Font.GothamSemibold
 IslandsScripts.Text = ""
@@ -858,40 +974,41 @@ IslandsScripts.TextScaled = true
 IslandsScripts.TextSize = 14.000
 IslandsScripts.TextWrapped = true
 
-UICorner_11.CornerRadius = UDim.new(1, 0)
-UICorner_11.Parent = IslandsScripts
+UICorner_15.CornerRadius = UDim.new(1, 0)
+UICorner_15.Parent = IslandsScripts
 
-Shadow_10.Name = "Shadow"
-Shadow_10.Parent = IslandsScripts
-Shadow_10.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-Shadow_10.BorderSizePixel = 0
-Shadow_10.Size = UDim2.new(1, 0, 1, 4)
+Shadow_12.Name = "Shadow"
+Shadow_12.Parent = IslandsScripts
+Shadow_12.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_12.BorderSizePixel = 0
+Shadow_12.Position = UDim2.new(-0.00276557636, 0, -0.0280444622, 0)
+Shadow_12.Size = UDim2.new(1.0030973, 0, 0.968153298, 4)
 
-UICorner_12.CornerRadius = UDim.new(1, 0)
-UICorner_12.Parent = Shadow_10
+UICorner_16.CornerRadius = UDim.new(1, 0)
+UICorner_16.Parent = Shadow_12
 
-TextLabel_14.Parent = IslandsScripts
-TextLabel_14.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_14.BackgroundTransparency = 1.000
-TextLabel_14.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_14.BorderSizePixel = 0
-TextLabel_14.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_14.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_14.ZIndex = 2
-TextLabel_14.Font = Enum.Font.GothamSemibold
-TextLabel_14.Text = "Islands (Scripts)"
-TextLabel_14.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_14.TextScaled = true
-TextLabel_14.TextSize = 14.000
-TextLabel_14.TextWrapped = true
+TextLabel_16.Parent = IslandsScripts
+TextLabel_16.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_16.BackgroundTransparency = 1.000
+TextLabel_16.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_16.BorderSizePixel = 0
+TextLabel_16.Position = UDim2.new(0.503020287, 0, 0.475765228, 0)
+TextLabel_16.Size = UDim2.new(1.0141151, -20, 1.20494986, -20)
+TextLabel_16.ZIndex = 2
+TextLabel_16.Font = Enum.Font.GothamSemibold
+TextLabel_16.Text = "Islands (Scripts)"
+TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_16.TextScaled = true
+TextLabel_16.TextSize = 14.000
+TextLabel_16.TextWrapped = true
 
 LumberTycoon2_2.Name = "LumberTycoon 2"
 LumberTycoon2_2.Parent = Scripts
 LumberTycoon2_2.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 LumberTycoon2_2.BorderSizePixel = 0
-LumberTycoon2_2.Position = UDim2.new(0.0101877162, 0, 0.0959381014, 0)
-LumberTycoon2_2.Size = UDim2.new(0, 638, 0, 45)
+LumberTycoon2_2.Position = UDim2.new(0.00253495201, 0, 0.192785561, 0)
+LumberTycoon2_2.Size = UDim2.new(0, 472, 0, 31)
 LumberTycoon2_2.ZIndex = 2
 LumberTycoon2_2.Font = Enum.Font.GothamSemibold
 LumberTycoon2_2.Text = ""
@@ -900,40 +1017,41 @@ LumberTycoon2_2.TextScaled = true
 LumberTycoon2_2.TextSize = 14.000
 LumberTycoon2_2.TextWrapped = true
 
-UICorner_13.CornerRadius = UDim.new(1, 0)
-UICorner_13.Parent = LumberTycoon2_2
+UICorner_17.CornerRadius = UDim.new(1, 0)
+UICorner_17.Parent = LumberTycoon2_2
 
-Shadow_11.Name = "Shadow"
-Shadow_11.Parent = LumberTycoon2_2
-Shadow_11.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-Shadow_11.BorderSizePixel = 0
-Shadow_11.Size = UDim2.new(1, 0, 1, 4)
+Shadow_13.Name = "Shadow"
+Shadow_13.Parent = LumberTycoon2_2
+Shadow_13.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_13.BorderSizePixel = 0
+Shadow_13.Position = UDim2.new(0.00147197105, 0, -0.0631833076, 0)
+Shadow_13.Size = UDim2.new(1.0030973, 0, 0.968153298, 4)
 
-UICorner_14.CornerRadius = UDim.new(1, 0)
-UICorner_14.Parent = Shadow_11
+UICorner_18.CornerRadius = UDim.new(1, 0)
+UICorner_18.Parent = Shadow_13
 
-TextLabel_15.Parent = LumberTycoon2_2
-TextLabel_15.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_15.BackgroundTransparency = 1.000
-TextLabel_15.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_15.BorderSizePixel = 0
-TextLabel_15.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_15.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_15.ZIndex = 2
-TextLabel_15.Font = Enum.Font.GothamSemibold
-TextLabel_15.Text = "Lumber Tycoon 2 (Scripts)"
-TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_15.TextScaled = true
-TextLabel_15.TextSize = 14.000
-TextLabel_15.TextWrapped = true
+TextLabel_17.Parent = LumberTycoon2_2
+TextLabel_17.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_17.BackgroundTransparency = 1.000
+TextLabel_17.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_17.BorderSizePixel = 0
+TextLabel_17.Position = UDim2.new(0.503020644, 0, 0.472884655, 0)
+TextLabel_17.Size = UDim2.new(1.0141151, -20, 1.20494986, -20)
+TextLabel_17.ZIndex = 2
+TextLabel_17.Font = Enum.Font.GothamSemibold
+TextLabel_17.Text = "Lumber Tycoon 2 (Scripts)"
+TextLabel_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_17.TextScaled = true
+TextLabel_17.TextSize = 14.000
+TextLabel_17.TextWrapped = true
 
 Allgames.Name = "Allgames"
 Allgames.Parent = Scripts
 Allgames.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Allgames.BorderSizePixel = 0
-Allgames.Position = UDim2.new(0.0104917046, 0, 0.0500251427, 0)
-Allgames.Size = UDim2.new(0, 638, 0, 45)
+Allgames.Position = UDim2.new(0.00283938041, 0, 0.0525950938, 0)
+Allgames.Size = UDim2.new(0, 472, 0, 31)
 Allgames.ZIndex = 2
 Allgames.Font = Enum.Font.GothamSemibold
 Allgames.Text = ""
@@ -942,40 +1060,41 @@ Allgames.TextScaled = true
 Allgames.TextSize = 14.000
 Allgames.TextWrapped = true
 
-UICorner_15.CornerRadius = UDim.new(1, 0)
-UICorner_15.Parent = Allgames
+UICorner_19.CornerRadius = UDim.new(1, 0)
+UICorner_19.Parent = Allgames
 
-Shadow_12.Name = "Shadow"
-Shadow_12.Parent = Allgames
-Shadow_12.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-Shadow_12.BorderSizePixel = 0
-Shadow_12.Size = UDim2.new(1, 0, 1, 4)
+Shadow_14.Name = "Shadow"
+Shadow_14.Parent = Allgames
+Shadow_14.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_14.BorderSizePixel = 0
+Shadow_14.Position = UDim2.new(-0.0027647987, 0, -0.0746154785, 0)
+Shadow_14.Size = UDim2.new(1.0030973, 0, 0.968153298, 4)
 
-UICorner_16.CornerRadius = UDim.new(1, 0)
-UICorner_16.Parent = Shadow_12
+UICorner_20.CornerRadius = UDim.new(1, 0)
+UICorner_20.Parent = Shadow_14
 
-TextLabel_16.Parent = Allgames
-TextLabel_16.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_16.BackgroundTransparency = 1.000
-TextLabel_16.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_16.BorderSizePixel = 0
-TextLabel_16.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_16.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_16.ZIndex = 2
-TextLabel_16.Font = Enum.Font.GothamSemibold
-TextLabel_16.Text = "All Games"
-TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_16.TextScaled = true
-TextLabel_16.TextSize = 14.000
-TextLabel_16.TextWrapped = true
+TextLabel_18.Parent = Allgames
+TextLabel_18.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_18.BackgroundTransparency = 1.000
+TextLabel_18.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_18.BorderSizePixel = 0
+TextLabel_18.Position = UDim2.new(0.498783886, 0, 0.493709445, 0)
+TextLabel_18.Size = UDim2.new(1.0141151, -20, 1.20494986, -20)
+TextLabel_18.ZIndex = 2
+TextLabel_18.Font = Enum.Font.GothamSemibold
+TextLabel_18.Text = "All Games"
+TextLabel_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_18.TextScaled = true
+TextLabel_18.TextSize = 14.000
+TextLabel_18.TextWrapped = true
 
 Arsenal_2.Name = "Arsenal"
 Arsenal_2.Parent = Scripts
 Arsenal_2.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 Arsenal_2.BorderSizePixel = 0
-Arsenal_2.Position = UDim2.new(0.00999999978, 0, 0.187000006, 0)
-Arsenal_2.Size = UDim2.new(0, 638, 0, 45)
+Arsenal_2.Position = UDim2.new(0, 2, 0.100000001, 0)
+Arsenal_2.Size = UDim2.new(0, 472, 0, 31)
 Arsenal_2.ZIndex = 2
 Arsenal_2.Font = Enum.Font.GothamSemibold
 Arsenal_2.Text = ""
@@ -984,54 +1103,151 @@ Arsenal_2.TextScaled = true
 Arsenal_2.TextSize = 14.000
 Arsenal_2.TextWrapped = true
 
-UICorner_17.CornerRadius = UDim.new(1, 0)
-UICorner_17.Parent = Arsenal_2
+UICorner_21.CornerRadius = UDim.new(1, 0)
+UICorner_21.Parent = Arsenal_2
 
-Shadow_13.Name = "Shadow"
-Shadow_13.Parent = Arsenal_2
-Shadow_13.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-Shadow_13.BorderSizePixel = 0
-Shadow_13.Size = UDim2.new(1, 0, 1, 4)
+Shadow_15.Name = "Shadow"
+Shadow_15.Parent = Arsenal_2
+Shadow_15.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_15.BorderSizePixel = 0
+Shadow_15.Position = UDim2.new(-0.000646932283, 0, -0.0512952805, 0)
+Shadow_15.Size = UDim2.new(1.0030973, 0, 0.968153298, 4)
 
-UICorner_18.CornerRadius = UDim.new(1, 0)
-UICorner_18.Parent = Shadow_13
+UICorner_22.CornerRadius = UDim.new(1, 0)
+UICorner_22.Parent = Shadow_15
 
-TextLabel_17.Parent = Arsenal_2
-TextLabel_17.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_17.BackgroundTransparency = 1.000
-TextLabel_17.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_17.BorderSizePixel = 0
-TextLabel_17.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_17.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_17.ZIndex = 2
-TextLabel_17.Font = Enum.Font.GothamSemibold
-TextLabel_17.Text = "Arsenal (Scripts)"
-TextLabel_17.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_17.TextScaled = true
-TextLabel_17.TextSize = 14.000
-TextLabel_17.TextWrapped = true
+TextLabel_19.Parent = Arsenal_2
+TextLabel_19.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_19.BackgroundTransparency = 1.000
+TextLabel_19.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_19.BorderSizePixel = 0
+TextLabel_19.Position = UDim2.new(0.498782992, 0, 0.484771729, 0)
+TextLabel_19.Size = UDim2.new(1.0141151, -20, 1.20494986, -20)
+TextLabel_19.ZIndex = 2
+TextLabel_19.Font = Enum.Font.GothamSemibold
+TextLabel_19.Text = "Arsenal (Scripts)"
+TextLabel_19.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_19.TextScaled = true
+TextLabel_19.TextSize = 14.000
+TextLabel_19.TextWrapped = true
+
+BigPaintball.Name = "BigPaintball"
+BigPaintball.Parent = Scripts
+BigPaintball.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
+BigPaintball.BorderSizePixel = 0
+BigPaintball.Position = UDim2.new(0.00300000003, 0, 0.238999993, 0)
+BigPaintball.Size = UDim2.new(0, 472, 0, 31)
+BigPaintball.ZIndex = 2
+BigPaintball.Font = Enum.Font.GothamSemibold
+BigPaintball.Text = ""
+BigPaintball.TextColor3 = Color3.fromRGB(255, 255, 255)
+BigPaintball.TextScaled = true
+BigPaintball.TextSize = 14.000
+BigPaintball.TextWrapped = true
+
+UICorner_23.CornerRadius = UDim.new(1, 0)
+UICorner_23.Parent = BigPaintball
+
+Shadow_16.Name = "Shadow"
+Shadow_16.Parent = BigPaintball
+Shadow_16.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_16.BorderSizePixel = 0
+Shadow_16.Position = UDim2.new(0.00147197105, 0, -0.0631833076, 0)
+Shadow_16.Size = UDim2.new(1.0030973, 0, 0.968153298, 4)
+
+UICorner_24.CornerRadius = UDim.new(1, 0)
+UICorner_24.Parent = Shadow_16
+
+TextLabel_20.Parent = BigPaintball
+TextLabel_20.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_20.BackgroundTransparency = 1.000
+TextLabel_20.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_20.BorderSizePixel = 0
+TextLabel_20.Position = UDim2.new(0.503020644, 0, 0.472884655, 0)
+TextLabel_20.Size = UDim2.new(1.0141151, -20, 1.20494986, -20)
+TextLabel_20.ZIndex = 2
+TextLabel_20.Font = Enum.Font.GothamSemibold
+TextLabel_20.Text = "Big Paintball (Scripts)"
+TextLabel_20.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_20.TextScaled = true
+TextLabel_20.TextSize = 14.000
+TextLabel_20.TextWrapped = true
 
 Settings_2.Name = "Settings"
 Settings_2.Parent = Frame
 Settings_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Settings_2.BackgroundTransparency = 1.000
 Settings_2.BorderSizePixel = 0
-Settings_2.Position = UDim2.new(0.190476194, 0, 0.0909090936, 0)
-Settings_2.Size = UDim2.new(0, 663, 0, 470)
+Settings_2.Position = UDim2.new(0.190997466, 0, 0.0911298394, 0)
+Settings_2.Size = UDim2.new(0, 490, 0, 326)
 Settings_2.Visible = false
 Settings_2.ZIndex = 150
 
-TextLabel_18.Parent = Settings_2
-TextLabel_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_18.BackgroundTransparency = 1.000
-TextLabel_18.Size = UDim2.new(0, 663, 0, 470)
-TextLabel_18.Font = Enum.Font.SciFi
-TextLabel_18.Text = "Comming Soon"
-TextLabel_18.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_18.TextScaled = true
-TextLabel_18.TextSize = 14.000
-TextLabel_18.TextWrapped = true
+TextLabel_21.Parent = Settings_2
+TextLabel_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_21.BackgroundTransparency = 1.000
+TextLabel_21.Position = UDim2.new(0.000490149658, 0, -0.000280462147, 0)
+TextLabel_21.Size = UDim2.new(0, 490, 0, 325)
+TextLabel_21.Font = Enum.Font.SciFi
+TextLabel_21.Text = "Comming Soon"
+TextLabel_21.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_21.TextScaled = true
+TextLabel_21.TextSize = 14.000
+TextLabel_21.TextWrapped = true
+
+AllGames.Name = "AllGames"
+AllGames.Parent = Frame
+AllGames.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AllGames.BackgroundTransparency = 1.000
+AllGames.Position = UDim2.new(0.17875734, 0, 0.0920993239, 0)
+AllGames.Size = UDim2.new(0, 498, 0, 325)
+AllGames.Visible = false
+AllGames.ZIndex = 150
+
+Infinityyield_2.Name = "Infinity yield"
+Infinityyield_2.Parent = AllGames
+Infinityyield_2.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
+Infinityyield_2.BorderSizePixel = 0
+Infinityyield_2.Position = UDim2.new(0.0292798057, 0, 0.0201318357, 0)
+Infinityyield_2.Size = UDim2.new(0, 476, 0, 31)
+Infinityyield_2.ZIndex = 2
+Infinityyield_2.Font = Enum.Font.GothamSemibold
+Infinityyield_2.Text = ""
+Infinityyield_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Infinityyield_2.TextScaled = true
+Infinityyield_2.TextSize = 14.000
+Infinityyield_2.TextWrapped = true
+
+UICorner_25.CornerRadius = UDim.new(1, 0)
+UICorner_25.Parent = Infinityyield_2
+
+Shadow_17.Name = "Shadow"
+Shadow_17.Parent = Infinityyield_2
+Shadow_17.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+Shadow_17.BorderSizePixel = 0
+Shadow_17.Position = UDim2.new(0.00141537318, 0, -0.00401355373, 0)
+Shadow_17.Size = UDim2.new(1.00244522, 0, 0.968153298, 4)
+
+UICorner_26.CornerRadius = UDim.new(1, 0)
+UICorner_26.Parent = Shadow_17
+
+TextLabel_22.Parent = Infinityyield_2
+TextLabel_22.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_22.BackgroundTransparency = 1.000
+TextLabel_22.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_22.BorderSizePixel = 0
+TextLabel_22.Position = UDim2.new(0.502637863, 0, 0.499796212, 0)
+TextLabel_22.Size = UDim2.new(1.01337028, -20, 1.20494986, -20)
+TextLabel_22.ZIndex = 2
+TextLabel_22.Font = Enum.Font.GothamSemibold
+TextLabel_22.Text = "Infinite Yield (Krnl, Synapse X)"
+TextLabel_22.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_22.TextScaled = true
+TextLabel_22.TextSize = 14.000
+TextLabel_22.TextWrapped = true
 
 Open.Name = "Open"
 Open.Parent = ScreenGui
@@ -1048,161 +1264,13 @@ Open.TextScaled = true
 Open.TextSize = 14.000
 Open.TextWrapped = true
 
-Shadow_14.Name = "Shadow"
-Shadow_14.Parent = Open
-Shadow_14.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
-Shadow_14.BorderSizePixel = 0
-Shadow_14.Size = UDim2.new(1, 0, 1, 4)
+Shadow_18.Name = "Shadow"
+Shadow_18.Parent = Open
+Shadow_18.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+Shadow_18.BorderSizePixel = 0
+Shadow_18.Size = UDim2.new(1, 0, 1, 4)
 
-TextLabel_19.Parent = Open
-TextLabel_19.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_19.BackgroundTransparency = 1.000
-TextLabel_19.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_19.BorderSizePixel = 0
-TextLabel_19.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_19.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_19.ZIndex = 2
-TextLabel_19.Font = Enum.Font.GothamSemibold
-TextLabel_19.Text = "Open (JK Hub)"
-TextLabel_19.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_19.TextScaled = true
-TextLabel_19.TextSize = 14.000
-TextLabel_19.TextWrapped = true
-
-login.Name = "login"
-login.Parent = ScreenGui
-login.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-login.BorderColor3 = Color3.fromRGB(27, 42, 53)
-login.BorderSizePixel = 0
-login.Position = UDim2.new(0.354166687, 0, 0.3303985, 0)
-login.Size = UDim2.new(0, 560, 0, 365)
-
-UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(57, 104, 252)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(51, 68, 175))}
-UIGradient.Parent = login
-
-UICorner_19.CornerRadius = UDim.new(0, 4)
-UICorner_19.Parent = login
-
-Login.Name = "Login"
-Login.Parent = login
-Login.BackgroundColor3 = Color3.fromRGB(54, 85, 212)
-Login.BorderSizePixel = 0
-Login.Position = UDim2.new(0.2451161, 0, 0.597662091, 0)
-Login.Size = UDim2.new(0, 284, 0, 60)
-Login.ZIndex = 2
-Login.Font = Enum.Font.GothamSemibold
-Login.Text = ""
-Login.TextColor3 = Color3.fromRGB(255, 255, 255)
-Login.TextScaled = true
-Login.TextSize = 14.000
-Login.TextWrapped = true
-
-UICorner_20.CornerRadius = UDim.new(1, 0)
-UICorner_20.Parent = Login
-
-Shadow_15.Name = "Shadow"
-Shadow_15.Parent = Login
-Shadow_15.BackgroundColor3 = Color3.fromRGB(54, 85, 212)
-Shadow_15.BorderSizePixel = 0
-Shadow_15.Size = UDim2.new(1, 0, 1, 4)
-
-UICorner_21.CornerRadius = UDim.new(1, 0)
-UICorner_21.Parent = Shadow_15
-
-TextLabel_20.Parent = Login
-TextLabel_20.AnchorPoint = Vector2.new(0.5, 0.5)
-TextLabel_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_20.BackgroundTransparency = 1.000
-TextLabel_20.BorderColor3 = Color3.fromRGB(27, 42, 53)
-TextLabel_20.BorderSizePixel = 0
-TextLabel_20.Position = UDim2.new(0.5, 0, 0.5, 0)
-TextLabel_20.Size = UDim2.new(1, -20, 1, -20)
-TextLabel_20.ZIndex = 2
-TextLabel_20.Font = Enum.Font.GothamSemibold
-TextLabel_20.Text = "Login"
-TextLabel_20.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_20.TextScaled = true
-TextLabel_20.TextSize = 14.000
-TextLabel_20.TextWrapped = true
-
-Box.Name = "Box"
-Box.Parent = login
-Box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Box.BorderColor3 = Color3.fromRGB(27, 42, 53)
-Box.BorderSizePixel = 0
-Box.Position = UDim2.new(0.0497918278, 0, 0.378851891, 0)
-Box.Size = UDim2.new(0, 505, 0, 69)
-
-UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(55, 206, 223)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(91, 136, 229))}
-UIGradient_2.Parent = Box
-
-UICorner_22.CornerRadius = UDim.new(0, 4)
-UICorner_22.Parent = Box
-
-TextBox.Parent = Box
-TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextBox.BackgroundTransparency = 1.000
-TextBox.Size = UDim2.new(0, 505, 0, 69)
-TextBox.Font = Enum.Font.SourceSans
-TextBox.Text = "Insert key"
-TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextBox.TextScaled = true
-TextBox.TextSize = 14.000
-TextBox.TextWrapped = true
-
-TextLabel_21.Parent = login
-TextLabel_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_21.BackgroundTransparency = 1.000
-TextLabel_21.BorderSizePixel = 0
-TextLabel_21.Size = UDim2.new(0, 559, 0, 54)
-TextLabel_21.Font = Enum.Font.SciFi
-TextLabel_21.Text = "To get the key you have to join the Discord server"
-TextLabel_21.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_21.TextScaled = true
-TextLabel_21.TextSize = 14.000
-TextLabel_21.TextWrapped = true
-
-TextLabel_22.Parent = login
-TextLabel_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_22.BackgroundTransparency = 1.000
-TextLabel_22.BorderSizePixel = 0
-TextLabel_22.Position = UDim2.new(-0.0017857143, 0, 0.14794521, 0)
-TextLabel_22.Size = UDim2.new(0, 559, 0, 54)
-TextLabel_22.Font = Enum.Font.SciFi
-TextLabel_22.Text = "Link: https://discord.gg/KxNTUkUJYK"
-TextLabel_22.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_22.TextScaled = true
-TextLabel_22.TextSize = 14.000
-TextLabel_22.TextWrapped = true
-
-Close.Name = "Close"
-Close.Parent = login
-Close.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
-Close.BorderSizePixel = 0
-Close.Position = UDim2.new(0.734401941, 0, 0.803141534, 0)
-Close.Size = UDim2.new(0, 138, 0, 60)
-Close.ZIndex = 2
-Close.Font = Enum.Font.GothamSemibold
-Close.Text = ""
-Close.TextColor3 = Color3.fromRGB(255, 255, 255)
-Close.TextScaled = true
-Close.TextSize = 14.000
-Close.TextWrapped = true
-
-UICorner_23.CornerRadius = UDim.new(1, 0)
-UICorner_23.Parent = Close
-
-Shadow_16.Name = "Shadow"
-Shadow_16.Parent = Close
-Shadow_16.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
-Shadow_16.BorderSizePixel = 0
-Shadow_16.Size = UDim2.new(1, 0, 1, 4)
-
-UICorner_24.CornerRadius = UDim.new(1, 0)
-UICorner_24.Parent = Shadow_16
-
-TextLabel_23.Parent = Close
+TextLabel_23.Parent = Open
 TextLabel_23.AnchorPoint = Vector2.new(0.5, 0.5)
 TextLabel_23.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_23.BackgroundTransparency = 1.000
@@ -1212,15 +1280,167 @@ TextLabel_23.Position = UDim2.new(0.5, 0, 0.5, 0)
 TextLabel_23.Size = UDim2.new(1, -20, 1, -20)
 TextLabel_23.ZIndex = 2
 TextLabel_23.Font = Enum.Font.GothamSemibold
-TextLabel_23.Text = "Close"
+TextLabel_23.Text = "Open (JK Hub)"
 TextLabel_23.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_23.TextScaled = true
 TextLabel_23.TextSize = 14.000
 TextLabel_23.TextWrapped = true
 
+login.Name = "login"
+login.Parent = ScreenGui
+login.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+login.BorderColor3 = Color3.fromRGB(27, 42, 53)
+login.BorderSizePixel = 0
+login.Position = UDim2.new(0.394646049, 0, -0.219999999, 0)
+login.Size = UDim2.new(0, 403, 0, 237)
+
+Login.Name = "Login"
+Login.Parent = login
+Login.BackgroundColor3 = Color3.fromRGB(54, 85, 212)
+Login.BorderSizePixel = 0
+Login.Position = UDim2.new(0.245353982, 0, 0.595582962, 0)
+Login.Size = UDim2.new(0, 204, 0, 38)
+Login.ZIndex = 2
+Login.Font = Enum.Font.GothamSemibold
+Login.Text = ""
+Login.TextColor3 = Color3.fromRGB(255, 255, 255)
+Login.TextScaled = true
+Login.TextSize = 14.000
+Login.TextWrapped = true
+
+UICorner_27.CornerRadius = UDim.new(1, 0)
+UICorner_27.Parent = Login
+
+Shadow_19.Name = "Shadow"
+Shadow_19.Parent = Login
+Shadow_19.BackgroundColor3 = Color3.fromRGB(54, 85, 212)
+Shadow_19.BorderSizePixel = 0
+Shadow_19.Position = UDim2.new(0.00120963308, 0, -0.00205876282, 0)
+Shadow_19.Size = UDim2.new(1.00282788, 0, 0.963752151, 4)
+
+UICorner_28.CornerRadius = UDim.new(1, 0)
+UICorner_28.Parent = Shadow_19
+
+TextLabel_24.Parent = Login
+TextLabel_24.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_24.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_24.BackgroundTransparency = 1.000
+TextLabel_24.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_24.BorderSizePixel = 0
+TextLabel_24.Position = UDim2.new(0.502623439, 0, 0.4977777, 0)
+TextLabel_24.Size = UDim2.new(1.03024542, -20, 1.17926812, -20)
+TextLabel_24.ZIndex = 2
+TextLabel_24.Font = Enum.Font.GothamSemibold
+TextLabel_24.Text = "Login"
+TextLabel_24.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_24.TextScaled = true
+TextLabel_24.TextSize = 14.000
+TextLabel_24.TextWrapped = true
+
+Box.Name = "Box"
+Box.Parent = login
+Box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Box.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Box.BorderSizePixel = 0
+Box.Position = UDim2.new(0.0498401448, 0, 0.377533972, 0)
+Box.Size = UDim2.new(0, 363, 0, 44)
+
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(55, 206, 223)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(91, 136, 229))}
+UIGradient.Parent = Box
+
+UICorner_29.CornerRadius = UDim.new(0, 4)
+UICorner_29.Parent = Box
+
+TextBox.Parent = Box
+TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextBox.BackgroundTransparency = 1.000
+TextBox.Position = UDim2.new(0.000142520454, 0, -0.00113050675, 0)
+TextBox.Size = UDim2.new(0, 363, 0, 44)
+TextBox.Font = Enum.Font.SourceSans
+TextBox.Text = "Insert key"
+TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox.TextScaled = true
+TextBox.TextSize = 14.000
+TextBox.TextWrapped = true
+
+TextLabel_25.Parent = login
+TextLabel_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_25.BackgroundTransparency = 1.000
+TextLabel_25.BorderSizePixel = 0
+TextLabel_25.Position = UDim2.new(1.89314999e-08, 0, 0, 0)
+TextLabel_25.Size = UDim2.new(0, 402, 0, 35)
+TextLabel_25.Font = Enum.Font.SciFi
+TextLabel_25.Text = "To get the key you have to join the Discord server"
+TextLabel_25.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_25.TextScaled = true
+TextLabel_25.TextSize = 14.000
+TextLabel_25.TextWrapped = true
+
+TextLabel_26.Parent = login
+TextLabel_26.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_26.BackgroundTransparency = 1.000
+TextLabel_26.BorderSizePixel = 0
+TextLabel_26.Position = UDim2.new(-0.00178743654, 0, 0.147430554, 0)
+TextLabel_26.Size = UDim2.new(0, 402, 0, 35)
+TextLabel_26.Font = Enum.Font.SciFi
+TextLabel_26.Text = "Link: https://discord.gg/KxNTUkUJYK"
+TextLabel_26.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_26.TextScaled = true
+TextLabel_26.TextSize = 14.000
+TextLabel_26.TextWrapped = true
+
+Close.Name = "Close"
+Close.Parent = login
+Close.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+Close.BorderSizePixel = 0
+Close.Position = UDim2.new(0.735114634, 0, 0.800347567, 0)
+Close.Size = UDim2.new(0, 99, 0, 38)
+Close.ZIndex = 2
+Close.Font = Enum.Font.GothamSemibold
+Close.Text = ""
+Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close.TextScaled = true
+Close.TextSize = 14.000
+Close.TextWrapped = true
+
+UICorner_30.CornerRadius = UDim.new(1, 0)
+UICorner_30.Parent = Close
+
+Shadow_20.Name = "Shadow"
+Shadow_20.Parent = Close
+Shadow_20.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+Shadow_20.BorderSizePixel = 0
+Shadow_20.Position = UDim2.new(0.00742748519, 0, -0.00276692701, 0)
+Shadow_20.Size = UDim2.new(1.00411189, 0, 0.963752151, 4)
+
+UICorner_31.CornerRadius = UDim.new(1, 0)
+UICorner_31.Parent = Shadow_20
+
+TextLabel_27.Parent = Close
+TextLabel_27.AnchorPoint = Vector2.new(0.5, 0.5)
+TextLabel_27.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_27.BackgroundTransparency = 1.000
+TextLabel_27.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TextLabel_27.BorderSizePixel = 0
+TextLabel_27.Position = UDim2.new(0.509483576, 0, 0.497068733, 0)
+TextLabel_27.Size = UDim2.new(1.06060863, -20, 1.17926812, -20)
+TextLabel_27.ZIndex = 2
+TextLabel_27.Font = Enum.Font.GothamSemibold
+TextLabel_27.Text = "Close"
+TextLabel_27.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_27.TextScaled = true
+TextLabel_27.TextSize = 14.000
+TextLabel_27.TextWrapped = true
+
+UICorner_32.CornerRadius = UDim.new(0, 4)
+UICorner_32.Parent = login
+
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(57, 104, 252)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(51, 68, 175))}
+UIGradient_2.Parent = login
+
 -- Scripts:
 
-local function GARLEMW_fake_script() -- TextButton.Minimize 
+local function NBKFIZC_fake_script() -- TextButton.Minimize 
 	local script = Instance.new('Script', TextButton)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1228,8 +1448,8 @@ local function GARLEMW_fake_script() -- TextButton.Minimize
 		script.Parent.Parent.Parent.Parent.Open.Visible = true
 	end)
 end
-coroutine.wrap(GARLEMW_fake_script)()
-local function XEVZ_fake_script() -- HomeButton.Script 
+coroutine.wrap(NBKFIZC_fake_script)()
+local function KMXOHRR_fake_script() -- HomeButton.Script 
 	local script = Instance.new('Script', HomeButton)
 
 	local Home = script.Parent.Parent.Parent.Home
@@ -1250,10 +1470,12 @@ local function XEVZ_fake_script() -- HomeButton.Script
 		local All = script.Parent.Parent.Parent.AllGames
 		Arsenal.Visible = false
 		All.Visible = false
+		local Big = script.Parent.Parent.Parent["Big PaintBall"]
+		Big.Visible = false
 	end)
 end
-coroutine.wrap(XEVZ_fake_script)()
-local function PZNAN_fake_script() -- ScriptButton.Script 
+coroutine.wrap(KMXOHRR_fake_script)()
+local function UFNVQVZ_fake_script() -- ScriptButton.Script 
 	local script = Instance.new('Script', ScriptButton)
 
 	local Home = script.Parent.Parent.Parent.Home
@@ -1274,10 +1496,12 @@ local function PZNAN_fake_script() -- ScriptButton.Script
 		local All = script.Parent.Parent.Parent.AllGames
 		Arsenal.Visible = false
 		All.Visible = false
+		local Big = script.Parent.Parent.Parent["Big PaintBall"]
+		Big.Visible = false
 	end)
 end
-coroutine.wrap(PZNAN_fake_script)()
-local function ZSFWYXL_fake_script() -- Settings.Script 
+coroutine.wrap(UFNVQVZ_fake_script)()
+local function GNLKAQ_fake_script() -- Settings.Script 
 	local script = Instance.new('Script', Settings)
 
 	local Home = script.Parent.Parent.Parent.Home
@@ -1298,10 +1522,12 @@ local function ZSFWYXL_fake_script() -- Settings.Script
 		local All = script.Parent.Parent.Parent.AllGames
 		Arsenal.Visible = false
 		All.Visible = false
+		local Big = script.Parent.Parent.Parent["Big PaintBall"]
+		Big.Visible = false
 	end)
 end
-coroutine.wrap(ZSFWYXL_fake_script)()
-local function UQJMIQF_fake_script() -- Credits.Script 
+coroutine.wrap(GNLKAQ_fake_script)()
+local function ERPNH_fake_script() -- Credits.Script 
 	local script = Instance.new('Script', Credits)
 
 	local Home = script.Parent.Parent.Parent.Home
@@ -1323,10 +1549,12 @@ local function UQJMIQF_fake_script() -- Credits.Script
 		local All = script.Parent.Parent.Parent.AllGames
 		Arsenal.Visible = false
 		All.Visible = false
+		local Big = script.Parent.Parent.Parent["Big PaintBall"]
+		Big.Visible = false
 	end)
 end
-coroutine.wrap(UQJMIQF_fake_script)()
-local function LQZULR_fake_script() -- Void.LocalScript 
+coroutine.wrap(ERPNH_fake_script)()
+local function DUSC_fake_script() -- Void.LocalScript 
 	local script = Instance.new('LocalScript', Void)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1334,26 +1562,45 @@ local function LQZULR_fake_script() -- Void.LocalScript
 		loadstring(game:HttpGet("http://void-scripts.com/Scripts/islands_new.lua"))()
 	end)
 end
-coroutine.wrap(LQZULR_fake_script)()
-local function TYLR_fake_script() -- Bark.LocalScript 
+coroutine.wrap(DUSC_fake_script)()
+local function FLYTK_fake_script() -- Bark.LocalScript 
 	local script = Instance.new('LocalScript', Bark)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		--script:
-		loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('bark>blood')
+		loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('8.4 beta released :))')
 	end)
 end
-coroutine.wrap(TYLR_fake_script)()
-local function JBZEDVO_fake_script() -- Ancestor.LocalScript 
-	local script = Instance.new('LocalScript', Ancestor)
+coroutine.wrap(FLYTK_fake_script)()
+local function USJAG_fake_script() -- Blood.LocalScript 
+	local script = Instance.new('LocalScript', Blood)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		--script:
-		loadstring(game:HttpGetAsync'https://ancestordevelopment.wtf/Ancestor')('Ancestor V3 Winning :D');
+		_G.BloodKey = "AV1190ODDY10072021HackerAV1190"
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/teablood/hiding/main/nil"))()
 	end)
 end
-coroutine.wrap(JBZEDVO_fake_script)()
-local function LTJWMMQ_fake_script() -- Frame.LocalScript 
+coroutine.wrap(USJAG_fake_script)()
+local function BQXLQMM_fake_script() -- ExtremeDupe.LocalScript 
+	local script = Instance.new('LocalScript', ExtremeDupe)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		--script:
+		loadstring(game:HttpGet("https://pastebin.com/raw/ghRqqbLb"))()
+	end)
+end
+coroutine.wrap(BQXLQMM_fake_script)()
+local function DKZPURQ_fake_script() -- Wallops.LocalScript 
+	local script = Instance.new('LocalScript', Wallops)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		--script:
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/wallop560/wallopshub/main/loader.lua"))()
+	end)
+end
+coroutine.wrap(DKZPURQ_fake_script)()
+local function CBDRTOG_fake_script() -- Frame.LocalScript 
 	local script = Instance.new('LocalScript', Frame)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -1391,8 +1638,8 @@ local function LTJWMMQ_fake_script() -- Frame.LocalScript
 		end
 	end)
 end
-coroutine.wrap(LTJWMMQ_fake_script)()
-local function PVYN_fake_script() -- Zyrexhub.LocalScript 
+coroutine.wrap(CBDRTOG_fake_script)()
+local function ARQGEX_fake_script() -- Zyrexhub.LocalScript 
 	local script = Instance.new('LocalScript', Zyrexhub)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1400,17 +1647,17 @@ local function PVYN_fake_script() -- Zyrexhub.LocalScript
 		loadstring(game:HttpGet(("https://raw.githubusercontent.com/NotZyrex/Zyrex-Hub/master/Main.lua"),true))()
 	end)
 end
-coroutine.wrap(PVYN_fake_script)()
-local function ECPNJ_fake_script() -- Infinityyield.Script 
+coroutine.wrap(ARQGEX_fake_script)()
+local function HHQJ_fake_script() -- Infinityyield.Script 
 	local script = Instance.new('Script', Infinityyield)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		--script:
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Jannek10/Infinity-Yield/main/main"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
 	end)
 end
-coroutine.wrap(ECPNJ_fake_script)()
-local function HKRHTK_fake_script() -- IslandsScripts.Script 
+coroutine.wrap(HHQJ_fake_script)()
+local function WFVSZRB_fake_script() -- IslandsScripts.Script 
 	local script = Instance.new('Script', IslandsScripts)
 
 	local Islands = script.Parent.Parent.Parent.Islands
@@ -1420,8 +1667,8 @@ local function HKRHTK_fake_script() -- IslandsScripts.Script
 		script.Parent.Parent.Visible = false
 	end)
 end
-coroutine.wrap(HKRHTK_fake_script)()
-local function FNQWC_fake_script() -- LumberTycoon2_2.Script 
+coroutine.wrap(WFVSZRB_fake_script)()
+local function YNLLUL_fake_script() -- LumberTycoon2_2.Script 
 	local script = Instance.new('Script', LumberTycoon2_2)
 
 	local Lumber = script.Parent.Parent.Parent["Lumber Tycoon 2"]
@@ -1431,8 +1678,8 @@ local function FNQWC_fake_script() -- LumberTycoon2_2.Script
 		script.Parent.Parent.Visible = false
 	end)
 end
-coroutine.wrap(FNQWC_fake_script)()
-local function JNJQENT_fake_script() -- Allgames.Script 
+coroutine.wrap(YNLLUL_fake_script)()
+local function LGUK_fake_script() -- Allgames.Script 
 	local script = Instance.new('Script', Allgames)
 
 	local All = script.Parent.Parent.Parent.AllGames
@@ -1442,8 +1689,8 @@ local function JNJQENT_fake_script() -- Allgames.Script
 		script.Parent.Parent.Visible = false
 	end)
 end
-coroutine.wrap(JNJQENT_fake_script)()
-local function GHDU_fake_script() -- Arsenal_2.Script 
+coroutine.wrap(LGUK_fake_script)()
+local function XGRFCW_fake_script() -- Arsenal_2.Script 
 	local script = Instance.new('Script', Arsenal_2)
 
 	local Arsenal = script.Parent.Parent.Parent.Arsenal
@@ -1453,8 +1700,28 @@ local function GHDU_fake_script() -- Arsenal_2.Script
 		script.Parent.Parent.Visible = false
 	end)
 end
-coroutine.wrap(GHDU_fake_script)()
-local function QDTBWTO_fake_script() -- Open.Script 
+coroutine.wrap(XGRFCW_fake_script)()
+local function QRRZMZ_fake_script() -- BigPaintball.Script 
+	local script = Instance.new('Script', BigPaintball)
+
+	local Big = script.Parent.Parent.Parent["Big PaintBall"]
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		Big.Visible = true
+		script.Parent.Parent.Visible = false
+	end)
+end
+coroutine.wrap(QRRZMZ_fake_script)()
+local function TAKGBY_fake_script() -- Infinityyield_2.Script 
+	local script = Instance.new('Script', Infinityyield_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		--script:
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Jannek10/Infinity-Yield/main/main"))()
+	end)
+end
+coroutine.wrap(TAKGBY_fake_script)()
+local function XVER_fake_script() -- Open.Script 
 	local script = Instance.new('Script', Open)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1462,32 +1729,53 @@ local function QDTBWTO_fake_script() -- Open.Script
 		script.Parent.Visible = false
 	end)
 end
-coroutine.wrap(QDTBWTO_fake_script)()
-local function INCTQK_fake_script() -- Login.LocalScript 
+coroutine.wrap(XVER_fake_script)()
+local function IHRAJE_fake_script() -- Login.LocalScript 
 	local script = Instance.new('LocalScript', Login)
 
 	local passwort = script.Parent.Parent.Box.TextBox
 	local main = script.Parent.Parent.Parent.Frame
 	local login = script.Parent.Parent.Parent.login
 	
-	login.Visible = true
+	
 	main.Visible = false
 	
 	script.Parent.MouseButton1Click:Connect(function()
 		if passwort.Text == "Jkgamer1_0" or passwort.Text == "JK-Hub-202!.dlWLd0Üda" then
 			login.Visible = false
 			main.Visible = true
+			local f = script.Parent.Parent.Parent.Frame
+	
+	
+			f:TweenPosition(UDim2.new(0.342, 0,0.334, 0),"Out","Bounce",1) --Change to the position your gui will be when its open!
+			
 		else
 			passwort.Text = "Invalid"
 		end
 	end)
+	
+	wait(1)
+	
+	
+	local f = script.Parent.Parent.Parent.login
+	
+	
+	f:TweenPosition(UDim2.new(0.395, 0,0.39, 0),"Out","Bounce",1) --Change to the position your gui will be when its open!
+	
+	
+	
+	
+	
+	
+	
+	-- {-0.32, 0},{0.334, 0}
 end
-coroutine.wrap(INCTQK_fake_script)()
-local function FJNSZV_fake_script() -- Close.Script 
+coroutine.wrap(IHRAJE_fake_script)()
+local function DULS_fake_script() -- Close.Script 
 	local script = Instance.new('Script', Close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Visible = false
 	end)
 end
-coroutine.wrap(FJNSZV_fake_script)()
+coroutine.wrap(DULS_fake_script)()
