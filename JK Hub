@@ -1340,7 +1340,7 @@ local function TYLR_fake_script() -- Bark.LocalScript
 
 	script.Parent.MouseButton1Click:Connect(function()
 		--script:
-		loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('8.4 beta released :))')
+		loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('bark>blood')
 	end)
 end
 coroutine.wrap(TYLR_fake_script)()
